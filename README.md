@@ -1,2 +1,2 @@
 # Private Railway Templates
-My Custom Railway Templates
+Custom Railway Templates
